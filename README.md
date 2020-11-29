@@ -1,2 +1,2 @@
 # Games
-few projects
+a few game projects
